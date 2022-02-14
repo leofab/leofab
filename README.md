@@ -9,6 +9,9 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" />](https://twitter.com/facmeLEO)
+[<img align="left" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
+[<img align="left" alt="Twitter" width="26px" src="./img/instagram-dark.svg" />](https://www.instagram.com/leo_facme/)
 
 
 ### Languages and Tools:
