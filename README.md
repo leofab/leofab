@@ -12,8 +12,8 @@
 
 
 ### Languages and Tools:
-<div>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" style="pointer-events: none; user-select: none" />
+<div style="pointer-events: none; user-select: none;">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 </div>
 <br />
 <br />
