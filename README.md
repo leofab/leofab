@@ -26,6 +26,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="./img/bootstrap-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="./img/github-light.png#gh-light-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/GNOME_Terminal_icon_2019.svg" />
 
 
