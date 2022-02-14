@@ -9,14 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/facmeLEO#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/facmeLEO#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/leo-fabricio-2951a818#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/leo-fabricio-2951a818#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/leo_facme#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/leo_facme#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
