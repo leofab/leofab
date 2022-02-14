@@ -13,6 +13,9 @@
 [<img align="left" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
 [<img align="left" alt="Twitter" width="26px" src="./img/instagram-dark.svg" />](https://www.instagram.com/leo_facme/)
 
+<br />
+<br />
+
 
 ### Languages and Tools:
 
