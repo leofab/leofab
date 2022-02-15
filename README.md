@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!</h2>
 
-<ul align="center">
+<ul align="center" style="list-style-type:none;">
   <li> 🌱 I’m currently learning React, ReactNative, Vue and Angular</li>
   <li> 👯 I’m looking to collaborate with other content creators</li>
   <li> 🥅 2022 Goals: Learn more about web3</li>
