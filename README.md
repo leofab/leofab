@@ -1,43 +1,43 @@
-<h1 align="center">Hi! I'm Leo Fabricio</h1>
+# Hi! I'm Leo Fabricio
 
-<h2 align="center">I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!</h2>
-<br />
-<br />
-<ul>
-  <li> 🌱 I’m currently learning React, ReactNative, Vue and Angular</li>
-  <li> 👯 I’m looking to collaborate with other content creators</li>
-  <li> 🥅 2022 Goals: Learn more about web3</li>
-  <li> ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
-</ul>
-
-<div align="center">
-<h3>Connect with me:</h3>
-
-[<img align="center" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/facmeLEO)
-[<img align="center" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
-[<img align="center" alt="Twitter" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />](https://www.instagram.com/leo_facme/)
-</div>
+## I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!
 <br />
 <br />
 
-<div align="center">
-<h3>Languages and Tools:</h3>
+- 🌱 I’m currently learning React, ReactNative, Vue and Angular</li>
+- 👯 I’m looking to collaborate with other content creators</li>
+- 🥅 2022 Goals: Learn more about web3</li>
+- ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
 
-<img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; " />  
-<img align="center" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="center" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="center" alt="Bootstrap" width="26px" src="./img/bootstrap-logo.svg" style="padding-right:10px;" />
-<img align="center" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="center" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="center" alt="GitHub" width="26px" src="./img/github-light.png#gh-light-mode-only" style="padding-right:10px;" />
-<img align="center" alt="Terminal" width="26px" src="./img/GNOME_Terminal_icon_2019.svg" />
-</div>
+
+
+### Connect with me:
+
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/facmeLEO)
+[<img align="left" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
+[<img align="left" alt="Twitter" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />](https://www.instagram.com/leo_facme/)
 
 <br />
 <br />
 
-<h3 align="center">Learning:</h3>
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; " />  
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="./img/bootstrap-logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="./img/github-light.png#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/GNOME_Terminal_icon_2019.svg" />
+
+
+<br />
+<br />
+
+### Learning:
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
