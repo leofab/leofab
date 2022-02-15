@@ -1,12 +1,14 @@
 <h1 align="center">Hi! I'm Leo Fabricio</h1>
 
-## I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!
+<h2 align="center">I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!</h2>
 
-- 🌱 I’m currently learning React, ReactNative, Vue and Angular
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!
-
+<ul align="center">
+  <li> 🌱 I’m currently learning React, ReactNative, Vue and Angular</li>
+  <li> 👯 I’m looking to collaborate with other content creators</li>
+  <li> 🥅 2022 Goals: Learn more about web3</li>
+  <li> ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
+</ul>
+  
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" />](https://twitter.com/facmeLEO)
