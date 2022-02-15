@@ -13,7 +13,7 @@
 <div align="center"> 
 <h3>Connect with me:</h3>
 
-[<img align="center" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="margin:5px;"/>](https://twitter.com/facmeLEO)
+[<img align="center" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="right: 5px;"/>](https://twitter.com/facmeLEO)
 [<img align="center" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
 [<img align="center" alt="Twitter" width="26px" src="./img/instagram-dark.svg" />](https://www.instagram.com/leo_facme/)
 </div>
