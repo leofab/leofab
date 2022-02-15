@@ -1,4 +1,4 @@
-# Hi! I'm Leo Fabricio
+<h1 align="center">Hi! I'm Leo Fabricio</h1>
 
 ## I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!
 
