@@ -1,17 +1,21 @@
 # Hi! I'm Leo Fabricio
 
 ## I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!
+<br />
+<br />
 
-- 🌱 I’m currently learning React, ReactNative, Vue and Angular
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!
+- 🌱 I’m currently learning React, ReactNative, Vue and Angular</li>
+- 👯 I’m looking to collaborate with other content creators</li>
+- 🥅 2022 Goals: Learn more about web3</li>
+- ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
+
+
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" />](https://twitter.com/facmeLEO)
-[<img align="left" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
-[<img align="left" alt="Twitter" width="26px" src="./img/instagram-dark.svg" />](https://www.instagram.com/leo_facme/)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/facmeLEO)
+[<img align="left" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
+[<img align="left" alt="Twitter" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />](https://www.instagram.com/leo_facme/)
 
 <br />
 <br />
