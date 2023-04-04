@@ -13,6 +13,7 @@
 
 ### Connect with me:
 
+<a target="_blank"href="https://www.linkedin.com/in/leo-fabricio-2951a818/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/facmeLEO)
 [<img align="left" alt="Twitter" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
 [<img align="left" alt="Twitter" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />](https://www.instagram.com/leo_facme/)
