@@ -1,12 +1,12 @@
 # Hi! I'm Leo Fabricio
 
-## I'm a FrontEnd-dev with focus in JS, Teacher and a Cook!
+## I'm a Dev with focus in Java, Teacher and a Cook!
 <br />
 <br />
 
-- 🌱 I’m currently learning React, ReactNative, Vue and Angular</li>
+- 🌱 I’m currently learning Vue, SpringBoot & MongoDB</li>
 - 👯 I’m looking to collaborate with other content creators</li>
-- 🥅 2022 Goals: Learn more about web3</li>
+- 🥅 2023 Goals: Learn more about web3</li>
 - ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
 
 
@@ -24,7 +24,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; " />  
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; " />
+<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right:10px; " />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
