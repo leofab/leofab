@@ -11,7 +11,7 @@
 
 ###LEETCODE
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/leofabr3)
+![Leetcode Stats](https://leetcard.jacoblin.cool/leofabr3?ext=activity)
 
 
 ### Connect with me:
