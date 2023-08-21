@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: Learn more about web3</li>
 - ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
 
-###LEETCODE
+### LEETCODE
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/leofabr3?ext=activity)
 
