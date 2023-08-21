@@ -15,9 +15,9 @@
 
 
 ### Connect with me:
+![Twitter Follow](https://img.shields.io/twitter/follow/:user)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/:facmeLEO)
-[<img align="left" alt="Twitter" width="26px" src="./img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/facmeLEO)
+[<img align="left" alt="Twitter" width="26px" src="https://img/shields.io/twitter/follow/:facmeLEO" style="padding-right:10px;" />](https://twitter.com/facmeLEO)
 [<img align="left" alt="Linkedin" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/leo-fabricio-2951a818/)
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />](https://www.instagram.com/leo_facme/)
 
