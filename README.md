@@ -1,12 +1,12 @@
 # Hi! I'm Leo Fabricio
 
-## I'm a Dev with focus in Java, Teacher and a Cook!
+## I'm a Full Stack Flutter Developer with focus in scalable backend systems with Node, Python and Java.
 <br />
 <br />
 
-- 🌱 I’m currently learning Vue, SpringBoot & MongoDB</li>
+- 🌱 I’m currently learning TensorFlow, Keras and Transformers</li>
 - 👯 I’m looking to collaborate with other content creators</li>
-- 🥅 2023 Goals: Learn more about web3</li>
+- 🥅 2025 Goals: Learn more about web3</li>
 - ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
 
 ### LEETCODE
