@@ -1,12 +1,12 @@
 # Hi! I'm Leo Fabricio
 
-## I'm a Full Stack Flutter Developer with focus in scalable backend systems with Node, Python and Java.
+## I'm a Front End Swift Developer with focus in scalable systems and agentic flow modeling to produce more with less. We can measure our development with AI.
 <br />
 <br />
 
-- 🌱 I’m currently learning TensorFlow, Keras and Transformers</li>
-- 👯 I’m looking to collaborate with other content creators</li>
-- 🥅 2025 Goals: Learn more about web3</li>
+- 🌱 I’m currently working with SPDD with Tokenomics and Agentic Design Patterns</li>
+- 💼 Presently working at Banco do Brasil</li>
+- 🥅 2027 Goals: Learn more about remote jobs</li>
 - ⚡ Fun fact: I'm a music composer and in the past I gave classical guitar lessons!!</li>
 
 ### LEETCODE
